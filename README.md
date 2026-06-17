@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="./assets/profile-workshop-banner.svg" width="900" alt="Build first. Break things. Get stuck. Try again. Write it down." />
-</p>
 
-<h1 align="center">Lee Sang Inn</h1>
+<h1 align="center">Sang Inn</h1>
 
 <p align="center">
   No CS background. I like vibe coding: build first, break things, get stuck, try again, and write it down.

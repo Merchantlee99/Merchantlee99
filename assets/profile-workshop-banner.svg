@@ -1,0 +1,32 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Build first. Break things. Get stuck. Try again. Write it down.</title>
+  <desc id="desc">A dark workshop-style banner for Lee Sang Inn's GitHub profile.</desc>
+
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <path d="M0 264C128 236 236 286 376 250C523 212 589 148 740 162C866 174 944 238 1068 212C1126 200 1167 172 1200 148V360H0V264Z" fill="#111827"/>
+  <path d="M72 72H1128" stroke="#30363D" stroke-width="1"/>
+  <path d="M72 292H1128" stroke="#30363D" stroke-width="1"/>
+  <path d="M90 94H230" stroke="#58A6FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M90 268H326" stroke="#F2CC60" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="90" y="145" fill="#F0F6FC" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700">Build first. Break things.</text>
+  <text x="90" y="205" fill="#F0F6FC" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700">Get stuck. Try again.</text>
+  <text x="90" y="265" fill="#F0F6FC" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700">Write it down.</text>
+
+  <g opacity="0.88">
+    <rect x="810" y="110" width="300" height="138" rx="18" fill="#161B22" stroke="#30363D"/>
+    <circle cx="844" cy="140" r="6" fill="#F85149"/>
+    <circle cx="868" cy="140" r="6" fill="#F2CC60"/>
+    <circle cx="892" cy="140" r="6" fill="#3FB950"/>
+    <text x="844" y="180" fill="#8B949E" font-family="Courier New, Courier, monospace" font-size="22">current mode</text>
+    <text x="844" y="220" fill="#58A6FF" font-family="Courier New, Courier, monospace" font-size="25">&gt; just build</text>
+  </g>
+
+  <path d="M704 178H778" stroke="#8B949E" stroke-width="2"/>
+  <path d="M764 164L778 178L764 192" stroke="#8B949E" stroke-width="2"/>
+  <circle cx="695" cy="150" r="7" fill="#58A6FF"/>
+  <circle cx="738" cy="224" r="7" fill="#F2CC60"/>
+  <path d="M695 150L738 224" stroke="#30363D" stroke-width="2"/>
+
+  <text x="90" y="326" fill="#8B949E" font-family="Courier New, Courier, monospace" font-size="17">No CS background / learning in public / rough AI-assisted product experiments</text>
+</svg>

@@ -4,11 +4,15 @@ No CS background. I like vibe coding: build first, break things, get stuck, try 
 
 This GitHub is my public workshop for learning software by building real things with AI.
 
+
+
 ## Current Workspace
 
 - **Organization:** [Orvek](https://github.com/Orvek-dev)
 - **Website:** [onebuilderlog.com](https://onebuilderlog.com)
 - **Mode:** learning in public, rough experiments, product notes, and unfinished attempts
+
+
 
 ## What I am building
 
@@ -20,6 +24,8 @@ This GitHub is my public workshop for learning software by building real things 
 
 - [Packly](https://github.com/Orvek-dev/Packly)  
   AI coding setups kept getting bigger, and I was tired before the real work even started.
+
+
 
 ## Why I keep this here
 

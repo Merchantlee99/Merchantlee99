@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Orvek-dev">Orvek</a> &middot;
-  <a href="https://onebuilderlog.com">onebuilderlog.com</a> &middot;
+  <a href="https://onebuilderlog.com">onebuilderlog.com</a>
 </p>
 
 ## Building from friction

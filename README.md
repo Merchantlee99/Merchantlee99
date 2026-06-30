@@ -1,6 +1,3 @@
-
-<h1 align="center">Sang Inn</h1>
-
 <p align="center">
   No CS background. I like vibe coding: build first, break things, get stuck, try again, and write it down.
 </p>
